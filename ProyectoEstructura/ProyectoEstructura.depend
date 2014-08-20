@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1408520036 source:c:\users\usuario1\documents\ceutec\proyectoestructura\proyectoestructura\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<stack>
+
+1408520038 source:i:\proyectoestructura\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<stack>
+
